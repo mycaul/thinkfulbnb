@@ -147,10 +147,9 @@ footer p {
   padding: 20px;
 }
 
-/* -------  Media Query ------- */
 
 
-/* -------  General Styles ------- */
+/* -------  General Styles/ Media Query ------- */
 
 @media all and (min-width: 480px) {
   header {
